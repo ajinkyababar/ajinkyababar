@@ -2,7 +2,8 @@
 
 🌟 Software Engineer | Java | JavaScript | React | AWS | Generative AI Enthusiast 🌟
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77264&width=600&lines=Nice+to+e-meet+you!+;Software+engineer+crafting+purposeful+code." alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F77264&width=600&lines=Nice+to+e-meet+you!+;Software+engineer+crafting+purposeful+code." alt="Typing SVG" /></a> -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F77264&width=755&lines=Nice+to+e-meet+you!+;Engineering+clean%2C+scalable+systems+that+power+real+experiences." alt="Typing SVG" /></a>
 <!--
 **ajinkyababar/ajinkyababar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
