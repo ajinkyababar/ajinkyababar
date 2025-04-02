@@ -1,4 +1,5 @@
 ## 👋 Hey there! I'm Ajinkya
+![Ajinkya](./assets/readme_banner.png)
 
 🌟 Software Engineer | Java | JavaScript | React | AWS | Generative AI Enthusiast 🌟
 
